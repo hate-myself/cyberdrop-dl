@@ -1,5 +1,7 @@
 # A simple cyberdrop-dl docker container
 
+https://script-ware.gitbook.io/cyberdrop-dl
+
 ## Usage
 
 ```bash
