@@ -4,7 +4,7 @@
 
 ```bash
 docker run -it --rm \
-    -v ./data:/app
+    --volume ./data:/app
     ghcr.io/hate-myself/cyberdrop-dl:latest \
     cyberdrop-dl
 ```
