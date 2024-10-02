@@ -1,1 +1,1 @@
-cyberdrop-dl-patched===5.6.40
+cyberdrop-dl-patched===5.6.41
