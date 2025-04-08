@@ -1,1 +1,1 @@
-cyberdrop-dl-patched===6.8.0
+cyberdrop-dl-patched===6.8.0.post1
