@@ -1,1 +1,1 @@
-cyberdrop-dl-patched===7.0.0
+cyberdrop-dl-patched===7.1.0
