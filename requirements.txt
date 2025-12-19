@@ -1,1 +1,1 @@
-cyberdrop-dl-patched===8.8.0
+cyberdrop-dl-patched===8.9.0
